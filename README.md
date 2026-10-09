@@ -1,5 +1,5 @@
 # Hi, I'm Batuhan Kadir Urlu! 👋
-### 🤖 AI Engineering Student | Aspiring AI Engineer
+### 🤖 AI Engineering Student |  AI Engineer
 
 I'm a fourth-year Artificial Intelligence Engineering student at OSTİM Technical University (GPA: 3.29/4.00)[cite: 2].
 

@@ -1,44 +1,53 @@
-# Hi, I'm Batuhan 👋
+# Hi, I'm Batuhan Kadir Urlu 👋
 
-### AI Engineering Student | Computer Vision | Machine Learning
-
-I'm an Artificial Intelligence Engineering student interested in **Computer Vision, Deep Learning, and 3D Point Cloud Processing**. I'm currently developing my programming skills and working on AI projects.
-
-* 🎓 Artificial Intelligence Engineering student
-* 👁️ Interested in Computer Vision and Deep Learning
-* 🚗 Exploring LiDAR and 3D object detection
-* 🌱 Currently improving my Python and machine learning skills
-* 🎯 Goal: Build practical AI solutions for real-world problems
+**AI Engineering Student @ OSTİM Technical University**  
+Focused on **Computer Vision**, **3D LiDAR Perception**, and **Applied Machine Learning**.
 
 ---
 
-### 🛠️ Languages and Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+### 🚀 Highlights & Current Focus
+* 🔭 Currently working on data and AI pipelines at **OtonoLabs**.
+* 🎯 Deepening hands-on expertise in **3D LiDAR Point Cloud Processing** and **Object Detection**.
+* 🛠️ Building production-ready pipelines with **Python**, **PyTorch**, **OpenCV**, and **NumPy/Pandas**.
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Tech Stack & Tools
 
-**3D LiDAR Object Detection**
+**Languages & Core Frameworks:**  
+`Python` `C++` `C` `SQL (MySQL / PostgreSQL)` `OpenCV` `PyTorch` `NumPy` `Pandas` `Matplotlib`
 
-Exploring 3D point cloud processing and pedestrian detection using LiDAR data.
-
-**Computer Vision Projects**
-
-Developing image processing and real-time computer vision applications with Python and OpenCV.
-
-> More projects coming soon!
+**Domains:**  
+`3D Point Clouds (LiDAR)` `Computer Vision` `Deep Learning (ANN / CNN)` `Machine Learning` `Data Processing`
 
 ---
 
-### 📫 Connect with Me
+### 📌 Selected Projects
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](LINKEDIN_URL)
+* **[KITTI LiDAR 3D Object Detection](https://github.com/batuhankadiru)**  
+  Applied the **PointPillars** network architecture to KITTI LiDAR point cloud data for real-time 3D object detection and bounding box generation.
+  
+* **[YOLO Vehicle Detection Pipeline](https://github.com/batuhankadiru)**  
+  Trained and deployed a YOLO-based detector for automotive tracking and traffic scene understanding.
+
+* **[Real-Time Hand Gesture & Interactive Vision](https://github.com/batuhankadiru)**  
+  Computer vision applications using OpenCV and landmark tracking for gesture recognition and user interaction.
+
+* **[Document Q&A Assistant](https://github.com/batuhankadiru)**  
+  AI-powered semantic document search and context retrieval engine.
+
+* **[Deep Photo Style Transfer](https://github.com/batuhankadiru)**  
+  Feature representation and artistic neural style transfer implementation using deep neural networks.
+
+---
+
+### 💼 Experience Snapshots
+* **AI Engineer** @ OtonoLabs *(Jul 2026 – Present)*
+* **AI Engineering Intern** @ Lotus AI *(Mar 2026 – Jun 2026)*
+* **AI Engineering Intern** @ Mavinci *(Jan 2025)*
+
+---
+
+### 📫 Connect
+* 💼 [LinkedIn](https://linkedin.com/in/batuhan-kadir-urlu)
+* ✉️ [Email](mailto:batuhankadiru@gmail.com)
